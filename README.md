@@ -1,1 +1,3 @@
-# racunalniski-praktikum
+# Računalniški praktikum
+
+Lep pozdrav vsem. Nimam pojma kk to deluje...
